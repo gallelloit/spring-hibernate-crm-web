@@ -57,8 +57,8 @@ To get this Maven project working:
     - `01-setup-spring-security-bcrypt-demo-database.sql`
     - `02-customer-tracker.sql`
   - Two databases are created:
-    - [Spring Security Database](https://github.com/pgbonino/customer-tracker-web/blob/master/sql-scripts/spring-security-demo-database.png)
-    - [Customer Database](https://github.com/pgbonino/customer-tracker-web/blob/master/sql-scripts/customer-database.png)
+    - [Spring Security Database](https://github.com/pgbonino/spring-hibernate-crm-web/blob/master/blob/master/sql-scripts/spring-security-demo-database.png)
+    - [Customer Database](https://github.com/pgbonino/spring-hibernate-crm-web/blob/master/sql-scripts/customer-database.png)
   - Note that the first script creates three users with the following access details:
      - john/fun123/[ROLE_EMPLOYEE]
      - mary/fun123/[ROLE_EMPLOYEE, ROLE_MANAGER]
